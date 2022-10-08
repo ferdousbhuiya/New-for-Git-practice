@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f7d45be-924d-4ac7-85c5-c02f4f1a011b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/CollectionInterfaceExmple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/DataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/ListAndSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DifferenceCorejavaAdvance/Differnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsHandling/CheckedUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsHandling/ExceptionHnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopPrjct/FinalKeyWordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopPrjct/SuperKeyWordExmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/CollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/CollectionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/CollectionInterfaceExmple.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/CollectionInterfaceExmple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/DataStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/DataStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/Exp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/Exp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/ListAndSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/ListAndSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/Test45.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/CollectionFrameWork/Test45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/DifferenceCorejavaAdvance/Differnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/DifferenceCorejavaAdvance/Differnce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/CheckedUncheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/CheckedUncheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/ExceptionHnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/ExceptionHnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/TestForTry.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/ExceptionsHandling/TestForTry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/Ab.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/Ab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/Ba.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/Ba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/FinalKeyWordExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/FinalKeyWordExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/SuperKeyWordExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/SuperKeyWordExmpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/cv.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/cv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/ih.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JAVA/out/production/Learning JAVA/OopPrjct/ih.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_for_GitHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test_for_GitHub.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/CollectionFrameWork/ListAndSet.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="q7t3sfh7" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FdQNWRRzYWfFktRGZ8elyuPhzT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TestForTry">
+    <configuration name="ExceptionHnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionsHandling.ExceptionHnd" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.ListDemo" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.SetDemo" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.Test45" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionsHandling.TestForTry" />
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Learning JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Learning JAVA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestForTry" />
+        <item itemvalue="Application.ExceptionHnd" />
+        <item itemvalue="Application.Test45" />
+        <item itemvalue="Application.SetDemo" />
+        <item itemvalue="Application.ListDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f7d45be-924d-4ac7-85c5-c02f4f1a011b" name="Changes" comment="" />
+      <created>1664819443924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664819443924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
